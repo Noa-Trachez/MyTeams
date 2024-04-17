@@ -1,0 +1,52 @@
+*.o
+a.out
+vgcore.*
+.vscode
+.idea
+tokens.txt
+logs.log
+__pycache__
+websockets
+*.gcda
+*.gcno
+tests_*
+CMakeLists.txt
+cmake-build-debug
+err
+out
+coding-style-reports.log
+truc.c
+server.db
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+build
+
+myteams_cli
+myteams_server
