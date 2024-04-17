@@ -5,7 +5,7 @@ Dans ce repo, vous pouvez retrouver le projet qui regroupe toutes mes compétenc
 ## Résultat
 
 <div style="display: flex; flex-wrap: wrap">
-    <img src="/images/image.png" width="500" height="315" />
+    <img src="/images/rendu.png" width="500" height="315" />
 </div>
 
 [Lire la documentation](doc/MyTeams-Protocol-Documentation.pdf)
